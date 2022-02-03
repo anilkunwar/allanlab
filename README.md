@@ -1,4 +1,4 @@
-# Allan Lab Website
+# Four Paradigm (4P) Laboratory Website
 
 This is the website of our academic research group at Leiden University.
 
